@@ -8,7 +8,7 @@ namespace MovieNight.Client
         {
             Console.WriteLine("Hello World!");
 
-            Console.ReadLine();
+           
         }
     }
 }
