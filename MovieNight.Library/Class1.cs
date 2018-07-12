@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Class1
+namespace MovieNight.Library
 {
     public class Class1
     {
